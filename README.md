@@ -1,5 +1,7 @@
 # assedit
-[Caption2Ass](https://github.com/iGlitch/Caption2Ass) の出力するASSをAVSで切り、 `.trimmed.ass` を出力するツール
+[Caption2Ass](https://github.com/iGlitch/Caption2Ass) の出力するASSを、AVSで切り `.trimmed.ass` を出力するツール
+
+AviUtl向けの[AviSynth Script エクスポート プラグイン](https://aji0.web.fc2.com/)によるAVSファイルをサポートしています。
 
 ## Usage
 
