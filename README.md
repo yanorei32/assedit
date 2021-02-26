@@ -3,7 +3,14 @@
 
 ## Usage
 
+minimum:
 ```
 assedit -t [AVS file] -x [ASS file]
 ```
+
+optional params:
+```
+assedit -t [AVS file] -x [ASS file] -f [framerate] -o [Output ASS file]
+```
+
 
